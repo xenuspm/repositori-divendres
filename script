@@ -1,0 +1,5 @@
+n=0
+while true {
+ n=n+1
+ eval("ls -lisa ~/ > n")
+}
